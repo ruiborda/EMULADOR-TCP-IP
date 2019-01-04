@@ -8,7 +8,7 @@ main() {
 	char dato[20];
 	string capsula[20][20];
    	char opcion='s';
-    char ca='NULL';
+    char ca;
                        
     while(opcion=='s'){
 		cout<<"\n    Ingrese datos y presione [ENTER]: \n\n     dato: ";
